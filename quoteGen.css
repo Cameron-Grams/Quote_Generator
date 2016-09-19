@@ -1,0 +1,38 @@
+.displayFormat {
+  width: 100%;
+  display: block;
+  position: absolute;
+}
+
+.mid-screen {
+  top: 30%;
+}
+
+.content {
+  text-align: center;
+  margin: 0 auto 1em;
+  display: block;
+}
+
+.button {
+  background-color: rgba(0, 153, 0, 0.2);
+  width: 130px;
+}
+
+#textDisplay {
+  width: 50%;
+  margin: 0 auto 1em; 
+  font-size: 1.25em;
+  font-family: Arial;
+}
+
+#author {
+  margin: 0 auto 1em;
+  font-size: 1em;
+  font-family: Arial;
+}
+
+#twitly {
+  margin-top: 1em;
+  background-color: rgba(0, 123, 125, 0.2);
+}
